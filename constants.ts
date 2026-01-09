@@ -1,5 +1,5 @@
 
-export const API_BASE = 'https://fe088c2035de.ngrok-free.app/api';
+export const API_BASE = 'https://4bdf137143e3.ngrok-free.app/api';
 
 export const ENDPOINTS = {
   USER: `${API_BASE}/user/find-by-chat-id`,
